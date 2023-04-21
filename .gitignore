@@ -60,3 +60,5 @@ dkms.conf
 # End of https://www.toptal.com/developers/gitignore/api/c,cpp
 .DS_Store
 *.app
+*gen.h
+china++.h
